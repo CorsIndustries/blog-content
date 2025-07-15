@@ -1,7 +1,7 @@
 [
     {
         "title": "Test 1",
-        "slug": "creare-backend-go",
+        "slug": "test-1",
         "date": "11-07-2025",
         "author": "Luca",
         "project": "backend",
@@ -10,11 +10,12 @@
             "api",
             "markdown"
         ],
-        "summary": "Test 1 lettura file md"
+        "summary": "Test 1 lettura file md",
+        "path": "posts/test-1.md"
     },
     {
         "title": "Test 2",
-        "slug": "Modelli 3D",
+        "slug": "test-1",
         "date": "11-07-2025",
         "author": "Christian",
         "project": "3d",
@@ -22,6 +23,7 @@
             "3d",
             "gardening"
         ],
-        "summary": "Test 2 lettura file md"
+        "summary": "Test 2 lettura file md",
+        "path": "posts/test-2.md"
     }
 ]
