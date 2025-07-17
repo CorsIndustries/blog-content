@@ -1,6 +1,6 @@
 ---
 title: "Test 1"
-slug: "creare-backend-go"
+slug: "test-1"
 date: "11-07-2025"
 author: "Luca"
 project: "backend"

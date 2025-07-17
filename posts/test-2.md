@@ -1,6 +1,6 @@
 ---
 title: "Test 2"
-slug: "Modelli 3D"
+slug: "test-2"
 date: "11-07-2025"
 author: "Christian"
 project: "3d"
