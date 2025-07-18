@@ -1,4 +1,8 @@
-# About
+---
+title: "About"
+slug: "about"
+date: "11-07-2025"
+---
 
 Cors Industries is a blog created for those who, like us, dream of mastering computer science, electronics, and robotics, one circuit at a time.
 
